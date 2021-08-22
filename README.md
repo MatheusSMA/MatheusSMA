@@ -5,6 +5,8 @@
 
 Meu nome é Matheus Simões e tenho 24 anos. Estou me formando em Engenharia da Computação e estudo desenvolvimento em C# e UNITY. 👨🏼‍🎓
 
+My name is Matheus Simões and I'm 24 years old. I am graduating in Computer Engineering and Study Development in C # and Unity. 👨🏼🎓
+
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -17,6 +19,9 @@ Meu nome é Matheus Simões e tenho 24 anos. Estou me formando em Engenharia da 
 
 ## Eu gosto disso! 😍
 * Desenvolvimento Frontend e Backend
+  - C#
+  - C++
+  - Git
 * Desenvolvimento de App's e games
 
 
@@ -24,5 +29,16 @@ Meu nome é Matheus Simões e tenho 24 anos. Estou me formando em Engenharia da 
 
 ## Trabalhos 💻
 
+**AppMasters/Perimetre -** Marathon App
+  - Drawer builder for area professionals
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=MatheusSMA&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
 
