@@ -21,15 +21,21 @@ My name is Matheus Simões and I'm 24 years old. I am graduating in Computer Eng
 * Desenvolvimento Frontend e Backend
   - C#
   - C++
-  - Git
+  - Asp .NET MVC
+  - HTML, CSS, JavaScript
+
 * Desenvolvimento de App's e games
+  -Unity
+  -Unreal
 
 
 ![Matheus Simões languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussma&layout=compact&&theme=radical)
 
 ## Trabalhos 💻
 
-**AppMasters/Perimetre -** Marathon App
+**GoFretes -** Fullstack developer
+
+**INTERNACIONAL |AppMasters -** Marathon App
   - Drawer builder for area professionals
 
 <p align="left">
