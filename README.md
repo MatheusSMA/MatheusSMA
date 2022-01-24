@@ -3,9 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Simões-ad0c5a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheussourgames/)](https://www.linkedin.com/in/matheussourgames/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusjut@gmail.com-ad0c5a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjut@gmail.com)](mailto:matheusjut@gmail.com)
 
-Meu nome é Matheus Simões e tenho 24 anos. Estou me formando em Engenharia da Computação e estudo desenvolvimento em C# e UNITY. 👨🏼‍🎓
-
-My name is Matheus Simões and I'm 24 years old. I am graduating in Computer Engineering and Study Development in C # and Unity. 👨🏼🎓
+Meu nome é Matheus Simões e tenho 24 anos. Estou me formando em Engenharia da Computação tenho foco no estudo desenvolvimento em Backend em geral, mas sempre aprendendo coisas novas!. 👨🏼‍🎓
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,7 +15,7 @@ My name is Matheus Simões and I'm 24 years old. I am graduating in Computer Eng
   </a>
 </p>
 
-## Eu gosto disso! 😍
+## Skills
 * Desenvolvimento Frontend e Backend
   - C#
   - C++
@@ -25,8 +23,8 @@ My name is Matheus Simões and I'm 24 years old. I am graduating in Computer Eng
   - HTML, CSS, JavaScript
 
 * Desenvolvimento de App's e games
-  -Unity
-  -Unreal
+  - Unity
+  - Unreal
 
 
 ![Matheus Simões languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussma&layout=compact&&theme=radical)
