@@ -21,6 +21,7 @@ Meu nome é Matheus Simões e tenho 24 anos. Estou me formando em Engenharia da 
   - C++
   - Asp .NET MVC
   - HTML, CSS, JavaScript
+  - React e NodeJS
 
 * Desenvolvimento de App's e games
   - Unity
