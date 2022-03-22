@@ -15,6 +15,9 @@ Meu nome é Matheus Simões e tenho 24 anos. Estou me formando em Engenharia da 
   </a>
 </p>
 
+![Matheus Simões languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussma&layout=compact&&theme=radical)
+
+
 ## Skills
 * Desenvolvimento Frontend e Backend
   - C#
@@ -28,7 +31,6 @@ Meu nome é Matheus Simões e tenho 24 anos. Estou me formando em Engenharia da 
   - Unreal
 
 
-![Matheus Simões languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussma&layout=compact&&theme=radical)
 
 ## Trabalhos 💻
 
