@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Simões-ad0c5a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheussourgames/)](https://www.linkedin.com/in/matheussourgames/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusjut@gmail.com-ad0c5a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjut@gmail.com)](mailto:matheusjut@gmail.com)
+[![Web Badge](https://img.shields.io/badge/-Portfolio-ad0c5a?style=flat-square&logo=youtubegaming&logoColor=white&link=https://matheussimoes.carrd.co)](https://matheussimoes.carrd.co) 
 
 Meu nome é Matheus Simões e tenho 26 anos. Sou formado em Engenharia da Computação tenho foco no estudo e desenvolvimento de Backend para games, mas sempre aprendendo coisas novas!. 👨🏼‍🎓
 
