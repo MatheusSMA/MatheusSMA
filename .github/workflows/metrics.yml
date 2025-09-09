@@ -2,11 +2,11 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "17 3 * * *"   # gera todo dia às 03:17 (BRT ~ 00:17 UTC-3)
-  workflow_dispatch:
-  push:
-    paths:
-      - "README.md"
+    - cron: "17 3 * * *"   # roda diariamente ~03:17 BRT
+  workflow_dispatch:        # permite rodar manualmente
+
+permissions:
+  contents: write           # precisa para commitar o SVG
 
 jobs:
   github-metrics:
@@ -15,11 +15,14 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # --- Autenticação ---
-          token: ${{ secrets.METRICS_TOKEN }}  # PAT (classic) com scope repo e read:user
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          # --- Tokens ---
+          token: ${{ secrets.METRICS_TOKEN }}           # PAT classic com repo + read:user
+          committer_token: ${{ secrets.GITHUB_TOKEN }}  # token do próprio Actions p/ commit
 
-          # --- Base ---
+          # --- Saída ---
+          filename: github-metrics.svg
+
+          # --- Perfil ---
           user: MatheusSMA
           template: classic
           base: header, activity, community, repositories, metadata
@@ -27,18 +30,18 @@ jobs:
           config_display: large
           config_padding: 0, 10
 
-          # --- Privados (opcional) ---
+          # --- Repos privados/afiliações ---
           repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: no
 
-          # --- Plugins que deixam bonito ---
+          # --- Plugins principais ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_from: 200   # pega histórico maior para padrões
+          plugin_habits_from: 200
 
           plugin_languages: yes
           plugin_languages_limit: 8
@@ -53,7 +56,7 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_limit: 8
 
-          plugin_stargazers: yes     # gráfico de estrelas ao longo do tempo
+          plugin_stargazers: yes
 
           # --- WakaTime (opcional) ---
           plugin_wakatime: yes
