@@ -8,11 +8,11 @@
 [![Stars](https://img.shields.io/github/stars/MatheusSMA?label=Stars&style=flat-square&color=ad0c5a)](https://github.com/MatheusSMA?tab=stars)
 [![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MatheusSMA&count_bg=%23ad0c5a&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=visitas&edge_flat=false)](https://github.com/MatheusSMA)
 
-Sou Matheus Simões (26). Formado em **Engenharia da Computação**, foco em **Backend para games** — sempre aprendendo coisas novas! 👨🏼‍🎓
+Sou Matheus Simões (28). Formado em **Engenharia da Computação**, foco em **Backend para games** — sempre aprendendo coisas novas! 👨🏼‍🎓
 
 ---
 
-## 📊 Stats (privados incluídos via Vercel)
+## 📊 Stats
 
 <p align="left">
   <img
