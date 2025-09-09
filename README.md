@@ -39,7 +39,7 @@ Trabalho com **Unity**, **C#/.NET**, **Unreal**,**Construct3**, e **Phaser**, al
 <details>
   <summary>📊 Metrics detalhados</summary>
   <p>
-    <img alt="Metrics" src="./github-metrics.svg" width="500"/>
+    <img alt="Metrics" src="./github-metrics.svg"/>
   </p>
 </details>
 
