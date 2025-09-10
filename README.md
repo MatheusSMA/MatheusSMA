@@ -9,9 +9,10 @@
 ![Visits](https://komarev.com/ghpvc/?username=MatheusSMA&label=Visits&color=ad0c5a&style=flat-square)
 
 
-Sou **Matheus Simões**, desenvolvedor de jogos e software, 28 anos, formado em **Engenharia da Computação**.  
-Tenho experiência nacional e internacional com clientes como **Sony Music, Globo, Paramount, Nickelodeon** e startups, atuando como **Game Developer** e **Backend Developer**.  
-Trabalho com **Unity**, **C#/.NET**, **Unreal**,**Construct3**, e **Phaser**, além de **AWS**, **CI/CD com GitHub Actions**, **integrações de pagamento** (Stripe, Apple Pay, Google Pay), e publicação em **App Store/Google Play**.
+Hello! I'm **Matheus Simões**, a 28-year-old **Game and Software Developer** with over **10 years of professional experience** and a degree in **Computer Engineering**. 👨‍💻  
+I have national and international experience collaborating with clients such as **Sony Music, Globo, Paramount, Nickelodeon**, and several startups, working as both a **Game Developer** and **Backend Developer**.  
+My expertise includes **Unity**, **C#/.NET**, **Unreal Engine**, **Construct 3**, and **Phaser**, as well as **AWS**, **CI/CD with GitHub Actions**, **payment integrations** (Stripe, Apple Pay, Google Pay), and publishing on the **App Store** and **Google Play**.  
+
 
 ---
 
@@ -26,19 +27,17 @@ Trabalho com **Unity**, **C#/.NET**, **Unreal**,**Construct3**, e **Phaser**, al
   />
 </p>
 
+![Matheus's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MatheusSMA&layout=compact&theme=radical)
+
 ![Top Langs](https://new-readme-inky.vercel.app/api/top-langs/?username=MatheusSMA&layout=compact&count_private=true&theme=radical)
 
 <p>
   <img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MatheusSMA&theme=radical&hide_border=true" />
 </p>
 
-### ⏱️ WakaTime (últimos 7 dias)
-<p>
-  <img alt="WakaTime Metrics" src="./wakatime-metrics.svg" width="500"/>
-</p>
 
 <details>
-  <summary>📊 Metrics detalhados</summary>
+  <summary>📊 Detailed metrics</summary>
   <p>
     <img alt="Metrics" src="./github-metrics.svg"/>
   </p>
@@ -48,41 +47,41 @@ Trabalho com **Unity**, **C#/.NET**, **Unreal**,**Construct3**, e **Phaser**, al
 
 ## 🛠️ Skills
 
-**Desenvolvimento Backend e Frontend**
-- C#, .NET, ASP.NET MVC
-- Python
-- C++
-- HTML, CSS, JavaScript
-- React, Node.js
-- PHP
+**Backend and Frontend Development**
+- C#, .NET, ASP.NET MVC  
+- Python  
+- C++  
+- HTML, CSS, JavaScript  
+- React, Node.js  
+- PHP  
 
-**Desenvolvimento de jogos e apps**
-- Unity3D (VR, AR, XR, WebGL, Mobile)
-- Unreal Engine
-- Construct 3
-- PixiJS
-- Phaser
-- OpenXR, Oculus ToolKit, MRTK
-- Automação CI/CD com GitHub Actions
-- Integrações de Pagamento (Stripe, Apple Pay, Google Pay)
+**Game and App Development**
+- Unity3D (VR, AR, XR, WebGL, Mobile)  
+- Unreal Engine  
+- Construct 3  
+- PixiJS  
+- Phaser  
+- OpenXR, Oculus ToolKit, MRTK  
+- CI/CD Automation with GitHub Actions  
+- Payment Integrations (Stripe, Apple Pay, Google Pay)  
 
-**Cloud e Infraestrutura**
-- AWS (S3, EC2, RDS)
-- Azure
-- Git/GitHub, GitHub Actions
-- MySQL, Oracle, MongoDB
+**Cloud and Infrastructure**
+- AWS (S3, EC2, RDS)  
+- Azure  
+- Git/GitHub, GitHub Actions  
+- MySQL, Oracle, MongoDB  
 
 ---
 
-## 💼 Experiência (resumida)
+## 💼 Experience (summary)
 
-- **Lumina Lab (2025)** – Backend & Game Dev (VR + IA para arquitetura, Meta Store, CI/CD)  
-- **Sony Music Entertainment (2024–2025)** – Game Dev (jogo corporativo multiplayer, WebGL, AWS, CI/CD)  
-- **Real Games Studio (2023 – actual)** – Dev & Artista Técnico (experiências imersivas para Globo, Paramount, Nickelodeon etc.)  
-- **Clickideia (2022–2023)** – Dev de jogos educacionais (Unity, Construct 3, Phaser)  
-- **67bits Studio (2022–2023)** – Líder de equipe (jogos mobile, Unity, publicações Google Play)  
+- **Lumina Lab (2025)** – Backend & Game Dev (VR + AI for architecture, Meta Store, CI/CD)  
+- **Sony Music Entertainment (2024–2025)** – Game Dev (corporate multiplayer game, WebGL, AWS, CI/CD)  
+- **Real Games Studio (2023 – present)** – Developer & Technical Artist (immersive experiences for Globo, Paramount, Nickelodeon, etc.)  
+- **Clickideia (2022–2023)** – Educational Game Developer (Unity, Construct 3, Phaser)  
+- **67bits Studio (2022–2023)** – Team Lead (mobile games, Unity, Google Play publishing)  
 - **TopMid Studio (2021)** – CEO & Game Dev (Unity/Unreal, VR/AR, XR, Meta Quest)  
 - **Black Mamba Games (Portugal, 2021–2022)** – Game Dev (NFT/Web, Unity, Blockchain)  
 - **GoFretes (2021)** – Fullstack Dev (ASP.NET MVC, MySQL, Azure)  
-- **Perimeter/Marathon (Canadá, 2021)** – Software Dev (Unity, WebGL, reuniões em inglês)  
+- **Perimeter/Marathon (Canada, 2021)** – Software Dev (Unity, WebGL, English-speaking meetings)  
 
