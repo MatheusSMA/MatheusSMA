@@ -35,26 +35,27 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
 
-      # 2) Apenas WakaTime (em arquivo separado)
+     # 2) Apenas WakaTime (em arquivo separado)
       - name: Generate WakaTime metrics
         uses: lowlighter/metrics@latest
         with:
           # Tokens
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-
+      
           # Saída
           filename: wakatime-metrics.svg
-
+      
           # Perfil
           user: MatheusSMA
           template: classic
           base: ""                                  # sem blocos extras
           config_timezone: America/Sao_Paulo
-
-          # WakaTime (requer secret WAKATIME_API_KEY)
+      
+          # WakaTime (ano/365 dias)
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, languages
+          plugin_wakatime_days: 365                 # << de 7 para 365
+          plugin_wakatime_sections: time, languages # adicione outras se quiser (projects, editors, os)
           plugin_wakatime_limit: 5
+
