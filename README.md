@@ -27,7 +27,7 @@ My expertise includes **Unity**, **C#/.NET**, **Unreal Engine**, **Construct 3**
   />
 </p>
 
-![Matheus's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MatheusSMA&layout=compact&theme=radical)
+![Matheus's WakaTime stats](https://new-readme-inky.vercel.app/api/wakatime?username=@MatheusSMA&layout=compact&theme=radical)
 
 ![Top Langs](https://new-readme-inky.vercel.app/api/top-langs/?username=MatheusSMA&layout=compact&count_private=true&theme=radical)
 
