@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Sim%C3%B5es-ad0c5a?style=flat-square&logo=linkedin&logoColor=white&cacheSeconds=3600)](https://www.linkedin.com/in/matheussourgames/)
 [![Gmail Badge](https://img.shields.io/badge/-matheusjut@gmail.com-ad0c5a?style=flat-square&logo=gmail&logoColor=white&link=mailto:matheusjut@gmail.com)](mailto:matheusjut@gmail.com)
-[![Web Badge](https://img.shields.io/badge/-Portfolio-ad0c5a?style=flat-square&logo=About.me&logoColor=white&link=https://matheussimoes.carrd.co)](https://matheussimoes.carrd.co)
+[![Web Badge](https://img.shields.io/badge/-Portfolio-ad0c5a?style=flat-square&logo=About.me&logoColor=white&link=https://matheussma.github.io/portfolio/#hero)](https://matheussma.github.io/portfolio/#hero)
 
 [![Followers](https://img.shields.io/github/followers/MatheusSMA?label=Followers&style=flat-square&color=ad0c5a)](https://github.com/MatheusSMA?tab=followers)
 [![Stars](https://img.shields.io/github/stars/MatheusSMA?label=Stars&style=flat-square&color=ad0c5a)](https://github.com/MatheusSMA?tab=stars)
